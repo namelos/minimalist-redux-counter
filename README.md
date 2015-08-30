@@ -8,7 +8,7 @@ Simple counter example showing how redux works more clearly.
 npm install
 ```
 
-#### run:
+#### run
 
 ```
 npm start
