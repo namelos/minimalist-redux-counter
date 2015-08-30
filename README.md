@@ -2,6 +2,12 @@
 
 Simple counter example showing how redux works more clearly.
 
+#### install
+
+```
+npm install
+```
+
 #### run:
 
 ```
